@@ -1,0 +1,127 @@
+Timestamp,Q1. Select your Age ,  Q2. Current education level  ,  Q3. Average daily screen time (in hours)  ,  Q4. Average daily social media usage (hours)  ,  Q5. Average daily gaming time (hours)  , Q6. Do you use your phone before sleeping?  ,Q7. How many times do you check your phone per day?  , Q8. Average sleep duration per night  ,Q9. I use my smartphone longer than intended  ,Q10. I feel restless or anxious when I cannot use my phone  ,  Q11. My smartphone use affects my sleep  ,Q12. I find it difficult to reduce my smartphone usage  ,Q13. I miss important academic tasks due to smartphone use  ,Q14. I use my phone during study time  ,Q15. My academic performance has been affected by smartphone use  ,Q16. I feel distracted in class due to smartphone use  ,Q17. Current academic percentage / GPA  ,Q18. Average study time per day (excluding school hours)  ,Q19. Attendance percentage  ,Q20. How often do you have difficulty concentrating on studies?  ,Q21. Have your academic grades decreased in the past year?  
+2/27/2026 18:54:46,17,Grade 11,6–8 hours,3–5 hours,None,Always,More than 100,6–7 hours,3,3,4,4,4,5,5,4,60–70%,Less than 1 hour,60–75%,5,Yes
+2/27/2026 19:02:57,16,Grade 11,4–6 hours,1–3 hours,None,Often,Less than 20,More than 8 hours,3,1,1,1,1,1,1,1,70–80%,More than 4 hours,60–75%,3,Yes
+2/27/2026 19:05:27,16,Grade 11,2–4 hours,1–3 hours,None,Often,20–50,6–7 hours,3,2,2,2,2,2,3,2,80–90%,1–2 hours,75–90%,3,Not sure
+2/27/2026 19:05:39,15,Grade 11,2–4 hours,1–3 hours,None,Always,More than 100,Less than 5 hours,5,4,5,5,5,5,5,5,Less than 60%,1–2 hours,Above 90%,5,Yes
+2/27/2026 19:05:39,17,Grade 11,2–4 hours,1–3 hours,None,Sometimes,More than 100,6–7 hours,4,2,1,1,5,4,4,5,Less than 60%,1–2 hours,Above 90%,5,Yes
+2/27/2026 19:16:14,16,Grade 11,2–4 hours,Less than 1 hour,None,Sometimes,Less than 20,6–7 hours,2,1,1,1,1,2,2,1,60–70%,2–4 hours,75–90%,3,Yes
+2/27/2026 19:18:07,16,Grade 11,2–4 hours,3–5 hours,None,Always,20–50,5–6 hours,4,2,3,3,2,3,3,4,80–90%,1–2 hours,75–90%,4,Not sure
+2/27/2026 19:18:13,17,Grade 11,4–6 hours,1–3 hours,None,Sometimes,20–50,5–6 hours,3,1,1,2,2,2,1,1,Above 90%,2–4 hours,75–90%,5,Not sure
+2/27/2026 19:25:14,16,First year college,Less than 2 hours,1–3 hours,None,Sometimes,Less than 20,6–7 hours,1,1,1,2,1,2,3,1,80–90%,1–2 hours,75–90%,3,Yes
+2/27/2026 19:25:49,16,Grade 11,4–6 hours,3–5 hours,None,Sometimes,20–50,6–7 hours,3,1,1,2,2,2,1,1,80–90%,2–4 hours,75–90%,2,Yes
+2/27/2026 19:27:24,16,Grade 11,4–6 hours,3–5 hours,None,Often,50–100,7–8 hours,3,2,1,2,2,4,1,2,80–90%,1–2 hours,75–90%,4,Yes
+2/27/2026 19:27:26,16,Grade 11,6–8 hours,More than 5 hours,More than 3 hours,Always,20–50,6–7 hours,5,3,5,5,5,3,5,4,80–90%,1–2 hours,60–75%,3,Not sure
+2/27/2026 19:31:23,15,First year college,2–4 hours,1–3 hours,None,Always,20–50,6–7 hours,5,2,5,4,5,3,5,1,80–90%,2–4 hours,75–90%,4,Yes
+2/27/2026 19:38:12,15,Grade 10,4–6 hours,1–3 hours,Less than 1 hour,Never,50–100,7–8 hours,5,3,5,3,5,5,5,1,70–80%,1–2 hours,Above 90%,4,Yes
+2/27/2026 19:45:04,17,Grade 12,4–6 hours,1–3 hours,Less than 1 hour,Sometimes,Less than 20,6–7 hours,3,1,3,1,1,4,1,1,Above 90%,2–4 hours,75–90%,2,Yes
+2/27/2026 19:45:35,16,Grade 11,More than 8 hours,More than 5 hours,1–3 hours,Always,50–100,More than 8 hours,5,1,1,5,4,4,4,3,60–70%,Less than 1 hour,Less than 60%,5,Yes
+2/27/2026 19:47:58,16,Grade 11,2–4 hours,1–3 hours,None,Sometimes,Less than 20,5–6 hours,2,1,1,2,1,2,2,1,70–80%,More than 4 hours,75–90%,3,No
+2/27/2026 19:48:50,16,First year college,2–4 hours,1–3 hours,None,Sometimes,Less than 20,5–6 hours,1,1,3,4,4,5,5,5,80–90%,1–2 hours,Above 90%,3,Not sure
+2/27/2026 19:50:04,16,Grade 11,Less than 2 hours,Less than 1 hour,None,Often,20–50,7–8 hours,4,2,3,2,2,1,4,2,80–90%,1–2 hours,60–75%,2,No
+2/27/2026 19:51:44,16,Grade 12,6–8 hours,More than 5 hours,More than 3 hours,Always,50–100,More than 8 hours,3,1,1,1,1,1,1,1,60–70%,Less than 1 hour,Above 90%,3,No
+2/27/2026 19:59:05,15,Grade 10,Less than 2 hours,Less than 1 hour,None,Sometimes,Less than 20,7–8 hours,2,1,1,1,1,4,4,1,80–90%,More than 4 hours,75–90%,3,Yes
+2/27/2026 20:00:48,13,Grade 9,2–4 hours,1–3 hours,Less than 1 hour,Often,50–100,7–8 hours,2,1,1,1,1,1,1,1,60–70%,Less than 1 hour,60–75%,2,Yes
+2/27/2026 20:01:11,15,Grade 11,4–6 hours,1–3 hours,Less than 1 hour,Sometimes,Less than 20,5–6 hours,2,3,4,3,1,3,3,2,70–80%,1–2 hours,75–90%,4,Not sure
+2/27/2026 20:03:49,15,Grade 10,2–4 hours,1–3 hours,None,Often,20–50,5–6 hours,3,2,2,2,2,1,1,1,80–90%,2–4 hours,75–90%,2,No
+2/27/2026 20:04:31,15,Grade 11,4–6 hours,3–5 hours,None,Often,50–100,7–8 hours,3,1,5,5,3,2,4,1,70–80%,Less than 1 hour,75–90%,5,No
+2/27/2026 20:06:30,16,Grade 11,2–4 hours,1–3 hours,None,Sometimes,20–50,7–8 hours,3,3,1,3,2,2,2,3,70–80%,1–2 hours,Above 90%,3,Not sure
+2/27/2026 20:08:11,19,First year college,2–4 hours,1–3 hours,None,Always,Less than 20,More than 8 hours,1,1,5,2,1,1,1,1,Above 90%,More than 4 hours,Above 90%,1,No
+2/27/2026 20:09:24,16,Grade 11,2–4 hours,1–3 hours,None,Sometimes,50–100,6–7 hours,3,2,2,1,3,4,4,4,70–80%,Less than 1 hour,75–90%,5,Yes
+2/27/2026 20:10:24,17,Grade 12,2–4 hours,Less than 1 hour,None,Sometimes,Less than 20,Less than 5 hours,3,3,1,3,4,4,4,1,70–80%,2–4 hours,75–90%,3,No
+2/27/2026 20:11:32,16,Grade 11,4–6 hours,3–5 hours,None,Always,50–100,5–6 hours,4,4,4,4,5,5,5,5,60–70%,2–4 hours,60–75%,3,Yes
+2/27/2026 20:12:06,16,Grade 11,4–6 hours,1–3 hours,None,Often,20–50,7–8 hours,3,2,2,2,1,4,2,1,80–90%,1–2 hours,75–90%,2,No
+2/27/2026 20:12:22,15,Grade 10,2–4 hours,1–3 hours,None,Sometimes,Less than 20,5–6 hours,1,1,2,1,1,1,1,1,80–90%,2–4 hours,Above 90%,1,No
+2/27/2026 20:12:30,16,Grade 11,4–6 hours,More than 5 hours,None,Always,20–50,5–6 hours,4,4,4,5,5,5,4,5,60–70%,1–2 hours,60–75%,4,Yes
+2/27/2026 20:13:17,17,Grade 11,4–6 hours,1–3 hours,Less than 1 hour,Sometimes,50–100,6–7 hours,2,1,1,2,3,5,2,1,70–80%,2–4 hours,Above 90%,3,No
+2/27/2026 20:14:17,17,Grade 11,4–6 hours,3–5 hours,1–3 hours,Often,50–100,6–7 hours,5,4,2,3,4,4,3,1,70–80%,1–2 hours,75–90%,4,Not sure
+2/27/2026 20:18:22,15,Grade 11,More than 8 hours,More than 5 hours,More than 3 hours,Always,50–100,Less than 5 hours,5,4,1,2,2,5,3,2,80–90%,Less than 1 hour,75–90%,2,Yes
+2/27/2026 20:21:07,16,Grade 11,4–6 hours,1–3 hours,None,Always,20–50,6–7 hours,4,3,1,1,1,1,1,1,Above 90%,1–2 hours,75–90%,1,No
+2/27/2026 20:24:23,15,Grade 11,6–8 hours,More than 5 hours,None,Often,20–50,6–7 hours,3,1,2,1,1,3,3,2,80–90%,1–2 hours,Above 90%,3,No
+2/27/2026 20:24:48,17,Grade 12,4–6 hours,3–5 hours,None,Sometimes,Less than 20,5–6 hours,1,1,1,3,3,1,1,1,70–80%,2–4 hours,75–90%,1,Yes
+2/27/2026 20:29:16,16,Grade 12,More than 8 hours,More than 5 hours,Less than 1 hour,Always,50–100,7–8 hours,2,2,3,2,3,3,3,1,60–70%,1–2 hours,75–90%,2,Not sure
+2/27/2026 20:31:49,15,First year college,2–4 hours,1–3 hours,Less than 1 hour,Often,Less than 20,5–6 hours,4,3,2,3,1,2,2,1,Above 90%,2–4 hours,Above 90%,2,No
+2/27/2026 20:31:51,16,Grade 11,2–4 hours,1–3 hours,None,Never,20–50,6–7 hours,3,3,3,4,4,4,3,4,Above 90%,More than 4 hours,75–90%,3,No
+2/27/2026 20:32:31,16,Grade 12,More than 8 hours,More than 5 hours,None,Always,20–50,6–7 hours,3,3,5,4,2,2,3,1,70–80%,Less than 1 hour,75–90%,2,No
+2/27/2026 20:34:45,16,Grade 11,4–6 hours,1–3 hours,None,Sometimes,20–50,7–8 hours,2,1,,1,1,2,,,80–90%,More than 4 hours,75–90%,1,Not sure
+2/27/2026 20:40:30,17,Grade 11,4–6 hours,3–5 hours,None,Always,20–50,6–7 hours,4,2,4,4,4,4,3,2,70–80%,1–2 hours,75–90%,2,No
+2/27/2026 20:50:37,16,Grade 11,6–8 hours,3–5 hours,None,Always,20–50,6–7 hours,4,3,3,4,3,2,2,1,80–90%,Less than 1 hour,60–75%,3,Not sure
+2/27/2026 20:53:34,19,First year college,2–4 hours,1–3 hours,None,Often,20–50,5–6 hours,1,1,1,1,1,2,2,,,,75–90%,1,No
+2/27/2026 20:58:45,19,First year college,2–4 hours,1–3 hours,None,Often,Less than 20,7–8 hours,3,2,3,3,3,3,2,1,60–70%,1–2 hours,Less than 60%,3,Yes
+2/27/2026 21:00:36,18,First year college,6–8 hours,More than 5 hours,1–3 hours,Often,20–50,5–6 hours,3,4,3,4,4,4,5,4,Less than 60%,1–2 hours,Above 90%,3,No
+2/27/2026 21:02:44,19,First year college,6–8 hours,More than 5 hours,None,Often,50–100,7–8 hours,4,4,3,3,3,2,2,2,70–80%,Less than 1 hour,Above 90%,2,Yes
+2/27/2026 21:07:01,17,Grade 11,2–4 hours,1–3 hours,None,Sometimes,50–100,5–6 hours,2,1,1,1,1,3,2,1,70–80%,1–2 hours,60–75%,2,Not sure
+2/27/2026 21:08:30,17,Grade 12,6–8 hours,3–5 hours,None,Always,More than 100,6–7 hours,3,3,3,3,3,4,4,4,70–80%,Less than 1 hour,60–75%,4,Yes
+2/27/2026 21:13:55,16,Grade 11,6–8 hours,3–5 hours,None,Often,20–50,6–7 hours,3,1,3,4,2,2,2,1,80–90%,2–4 hours,75–90%,2,No
+2/27/2026 21:14:29,16,Grade 11,Less than 2 hours,Less than 1 hour,None,Sometimes,Less than 20,6–7 hours,2,1,1,1,2,3,1,1,Above 90%,More than 4 hours,Above 90%,1,No
+2/27/2026 21:17:06,16,Grade 11,More than 8 hours,More than 5 hours,None,Always,More than 100,5–6 hours,5,5,5,5,5,5,5,5,60–70%,More than 4 hours,75–90%,5,No
+2/27/2026 21:23:39,13,Grade 9,Less than 2 hours,Less than 1 hour,None,Sometimes,Less than 20,5–6 hours,2,1,1,2,3,1,3,1,Above 90%,1–2 hours,Above 90%,4,Yes
+2/27/2026 21:31:27,17,Grade 11,4–6 hours,3–5 hours,None,Always,50–100,5–6 hours,3,1,3,1,1,1,1,1,60–70%,2–4 hours,60–75%,2,No
+2/27/2026 21:43:51,16,Grade 11,2–4 hours,1–3 hours,None,Never,20–50,6–7 hours,4,2,1,3,1,1,1,1,80–90%,1–2 hours,75–90%,3,No
+2/27/2026 21:44:32,19,First year college,4–6 hours,1–3 hours,None,Often,20–50,6–7 hours,4,2,1,2,4,3,2,2,80–90%,1–2 hours,75–90%,2,No
+2/27/2026 21:50:32,16,Grade 11,4–6 hours,1–3 hours,Less than 1 hour,Often,Less than 20,5–6 hours,3,3,2,3,4,4,3,1,70–80%,1–2 hours,Above 90%,3,No
+2/27/2026 22:04:06,19,First year college,More than 8 hours,3–5 hours,1–3 hours,Always,More than 100,Less than 5 hours,3,4,5,4,4,4,5,4,80–90%,Less than 1 hour,Less than 60%,3,Yes
+2/27/2026 22:07:48,18,First year college,2–4 hours,Less than 1 hour,None,Often,20–50,7–8 hours,2,1,1,2,1,2,1,1,80–90%,Less than 1 hour,60–75%,2,No
+2/27/2026 22:13:31,18,First year college,Less than 2 hours,Less than 1 hour,None,Sometimes,20–50,5–6 hours,2,1,2,1,1,2,2,1,70–80%,More than 4 hours,75–90%,1,No
+2/27/2026 22:28:38,19,Grade 10,Less than 2 hours,Less than 1 hour,Less than 1 hour,Sometimes,Less than 20,5–6 hours,3,1,1,1,1,1,1,1,60–70%,Less than 1 hour,Less than 60%,3,Yes
+2/27/2026 22:29:23,15,Grade 11,2–4 hours,1–3 hours,None,Often,20–50,6–7 hours,3,1,2,2,2,3,2,1,80–90%,1–2 hours,60–75%,2,No
+2/27/2026 22:51:12,16,Grade 12,6–8 hours,1–3 hours,None,Always,Less than 20,More than 8 hours,4,1,3,1,2,5,3,1,70–80%,Less than 1 hour,Less than 60%,2,No
+2/28/2026 7:11:44,18,First year college,6–8 hours,3–5 hours,Less than 1 hour,Always,Less than 20,7–8 hours,4,3,1,4,4,4,4,4,60–70%,1–2 hours,Above 90%,3,No
+2/28/2026 8:09:32,15,Grade 10,2–4 hours,1–3 hours,None,Often,Less than 20,5–6 hours,2,2,3,4,4,3,4,4,70–80%,More than 4 hours,75–90%,4,Yes
+2/28/2026 9:33:01,16,Grade 11,6–8 hours,3–5 hours,None,Always,50–100,7–8 hours,3,1,3,3,1,5,1,1,70–80%,2–4 hours,75–90%,1,Yes
+2/28/2026 9:43:43,15,Grade 11,Less than 2 hours,1–3 hours,None,Sometimes,Less than 20,More than 8 hours,2,1,1,1,1,2,1,1,70–80%,2–4 hours,Above 90%,3,No
+2/28/2026 9:44:58,16,Grade 11,6–8 hours,More than 5 hours,1–3 hours,Often,50–100,6–7 hours,3,2,1,3,4,5,5,5,80–90%,2–4 hours,Above 90%,3,No
+2/28/2026 10:02:28,14,Grade 8,2–4 hours,1–3 hours,1–3 hours,Sometimes,20–50,6–7 hours,3,3,3,3,3,3,3,3,70–80%,2–4 hours,75–90%,3,No
+2/28/2026 10:03:22,,,,,,,,,,,,,,,,,,,,,
+2/28/2026 10:13:14,15,First year college,2–4 hours,1–3 hours,Less than 1 hour,Often,Less than 20,5–6 hours,4,3,2,3,1,2,2,1,Above 90%,2–4 hours,Above 90%,2,No
+2/28/2026 12:09:00,16,Grade 11,6–8 hours,3–5 hours,None,Often,20–50,6–7 hours,2,2,5,4,4,3,3,3,Above 90%,1–2 hours,75–90%,3,Not sure
+2/28/2026 13:46:57,13,Grade 8,2–4 hours,1–3 hours,None,Always,20–50,More than 8 hours,1,3,2,2,2,1,1,3,80–90%,Less than 1 hour,75–90%,2,No
+2/28/2026 15:01:18,16,Grade 12,2–4 hours,Less than 1 hour,None,Sometimes,20–50,6–7 hours,3,3,2,4,3,3,2,1,80–90%,1–2 hours,75–90%,4,Yes
+2/28/2026 22:20:58,18,First year college,4–6 hours,1–3 hours,Less than 1 hour,Often,20–50,7–8 hours,3,4,3,3,4,3,4,4,Above 90%,Less than 1 hour,Above 90%,4,No
+3/1/2026 9:55:40,13,Grade 10,Less than 2 hours,1–3 hours,None,Sometimes,20–50,More than 8 hours,2,1,1,1,1,1,1,1,Above 90%,1–2 hours,Above 90%,1,Not sure
+3/2/2026 14:07:52,15,Grade 11,2–4 hours,1–3 hours,None,Often,20–50,6–7 hours,3,1,1,3,2,1,1,1,70–80%,1–2 hours,Above 90%,3,Yes
+3/2/2026 17:02:47,16,Grade 11,4–6 hours,1–3 hours,None,Often,50–100,5–6 hours,4,4,3,4,5,5,5,2,70–80%,Less than 1 hour,75–90%,3,Yes
+3/2/2026 17:10:19,17,Grade 10,2–4 hours,1–3 hours,None,Sometimes,Less than 20,7–8 hours,3,1,1,1,1,1,1,1,70–80%,2–4 hours,75–90%,1,No
+3/2/2026 17:10:57,16,Grade 11,2–4 hours,1–3 hours,None,Always,20–50,5–6 hours,4,1,1,5,5,5,5,1,70–80%,1–2 hours,75–90%,4,No
+3/2/2026 17:13:06,16,Grade 11,6–8 hours,3–5 hours,Less than 1 hour,Often,20–50,5–6 hours,3,1,2,1,2,1,1,1,70–80%,2–4 hours,Above 90%,2,No
+3/2/2026 17:17:24,16,Grade 11,4–6 hours,1–3 hours,Less than 1 hour,Often,20–50,7–8 hours,4,1,1,2,1,3,1,1,70–80%,1–2 hours,75–90%,2,No
+3/2/2026 17:24:12,16,Grade 11,6–8 hours,More than 5 hours,More than 3 hours,Always,50–100,More than 8 hours,4,1,2,1,1,3,1,1,80–90%,1–2 hours,Above 90%,1,No
+3/2/2026 17:28:18,16,Grade 11,More than 8 hours,More than 5 hours,Less than 1 hour,Sometimes,50–100,7–8 hours,4,4,2,4,2,4,1,1,Above 90%,1–2 hours,75–90%,4,No
+3/2/2026 18:04:33,16,Grade 11,4–6 hours,1–3 hours,None,Sometimes,50–100,6–7 hours,3,4,3,3,3,3,3,3,Above 90%,2–4 hours,Less than 60%,4,Not sure
+3/2/2026 18:49:31,18,First year college,2–4 hours,1–3 hours,1–3 hours,Often,20–50,5–6 hours,3,1,1,1,,2,1,2,80–90%,1–2 hours,75–90%,2,No
+3/2/2026 18:58:10,16,First year college,4–6 hours,3–5 hours,None,Sometimes,Less than 20,7–8 hours,3,1,1,1,1,1,2,1,80–90%,1–2 hours,60–75%,2,Yes
+3/2/2026 19:00:59,16,Grade 10,6–8 hours,3–5 hours,None,Always,50–100,7–8 hours,5,3,5,4,4,4,5,3,60–70%,1–2 hours,60–75%,4,Yes
+3/2/2026 19:02:58,13,Grade 10,2–4 hours,1–3 hours,Less than 1 hour,Sometimes,Less than 20,7–8 hours,1,3,4,4,5,3,4,1,Above 90%,1–2 hours,Above 90%,4,Yes
+3/2/2026 19:03:30,16,Grade 12,4–6 hours,3–5 hours,None,Sometimes,20–50,6–7 hours,3,4,2,2,2,3,4,1,80–90%,2–4 hours,75–90%,3,Not sure
+3/2/2026 19:10:39,17,Grade 12,6–8 hours,More than 5 hours,None,Always,20–50,6–7 hours,5,2,3,3,2,4,2,1,70–80%,2–4 hours,75–90%,2,No
+3/2/2026 19:22:29,16,Grade 12,2–4 hours,1–3 hours,None,Often,20–50,5–6 hours,5,3,5,5,5,2,3,2,80–90%,More than 4 hours,75–90%,3,Yes
+3/2/2026 19:25:25,16,Grade 12,2–4 hours,1–3 hours,None,Never,Less than 20,7–8 hours,1,1,1,1,3,4,4,1,Above 90%,1–2 hours,75–90%,3,Yes
+3/2/2026 19:31:04,16,Grade 12,Less than 2 hours,Less than 1 hour,None,Sometimes,Less than 20,7–8 hours,1,1,1,1,1,4,1,1,Above 90%,More than 4 hours,Above 90%,5,No
+3/2/2026 19:41:09,14,Grade 10,4–6 hours,3–5 hours,1–3 hours,Always,More than 100,6–7 hours,4,4,3,4,4,4,4,3,Above 90%,1–2 hours,75–90%,3,Yes
+3/2/2026 19:43:05,18,Grade 12,2–4 hours,1–3 hours,None,Often,Less than 20,6–7 hours,3,2,2,2,3,3,2,2,80–90%,More than 4 hours,Above 90%,2,No
+3/2/2026 19:44:17,17,Grade 12,2–4 hours,1–3 hours,None,Sometimes,20–50,6–7 hours,4,3,3,3,3,4,2,2,80–90%,2–4 hours,75–90%,2,Not sure
+3/2/2026 20:04:39,16,Grade 11,4–6 hours,1–3 hours,Less than 1 hour,Often,50–100,Less than 5 hours,4,3,3,4,5,5,5,3,60–70%,2–4 hours,Above 90%,3,Yes
+3/2/2026 20:09:14,16,Grade 11,Less than 2 hours,Less than 1 hour,1–3 hours,Sometimes,20–50,7–8 hours,2,2,1,3,4,3,3,1,Above 90%,More than 4 hours,60–75%,3,No
+3/2/2026 20:13:25,16,Grade 12,6–8 hours,1–3 hours,None,Often,20–50,6–7 hours,3,3,4,2,3,3,2,1,70–80%,Less than 1 hour,75–90%,2,Yes
+3/2/2026 20:13:32,18,Grade 12,4–6 hours,1–3 hours,Less than 1 hour,Sometimes,20–50,6–7 hours,2,1,4,4,3,5,3,2,80–90%,2–4 hours,75–90%,4,Yes
+3/2/2026 20:14:20,16,Grade 11,Less than 2 hours,Less than 1 hour,None,Sometimes,Less than 20,7–8 hours,1,1,5,3,5,5,4,1,Above 90%,2–4 hours,Above 90%,4,Yes
+3/2/2026 20:20:30,14,Grade 10,Less than 2 hours,1–3 hours,Less than 1 hour,Never,Less than 20,7–8 hours,3,5,1,5,2,3,4,1,Above 90%,Less than 1 hour,75–90%,4,Not sure
+3/2/2026 20:23:52,14,Grade 10,Less than 2 hours,1–3 hours,Less than 1 hour,Never,Less than 20,7–8 hours,3,4,1,5,2,3,2,1,Above 90%,Less than 1 hour,Above 90%,5,Not sure
+3/2/2026 20:57:34,16,Grade 11,4–6 hours,1–3 hours,Less than 1 hour,Sometimes,Less than 20,5–6 hours,3,1,1,1,1,3,1,1,80–90%,1–2 hours,Above 90%,1,No
+3/2/2026 21:03:56,14,Grade 10,2–4 hours,1–3 hours,None,Sometimes,Less than 20,5–6 hours,1,1,1,3,4,4,3,1,Less than 60%,2–4 hours,75–90%,3,Yes
+3/2/2026 21:12:04,14,Grade 10,Less than 2 hours,1–3 hours,None,Sometimes,Less than 20,7–8 hours,3,3,4,5,5,5,5,5,70–80%,Less than 1 hour,75–90%,5,Yes
+3/2/2026 21:20:50,15,Grade 10,Less than 2 hours,1–3 hours,None,Often,Less than 20,6–7 hours,2,1,4,2,2,3,3,1,80–90%,1–2 hours,Above 90%,2,Not sure
+3/2/2026 21:26:22,19,First year college,6–8 hours,More than 5 hours,1–3 hours,Always,50–100,7–8 hours,5,4,3,4,5,5,4,5,80–90%,Less than 1 hour,75–90%,4,Not sure
+3/2/2026 21:43:36,19,First year college,6–8 hours,More than 5 hours,None,Always,Less than 20,More than 8 hours,5,4,1,5,3,3,5,1,70–80%,More than 4 hours,75–90%,5,Yes
+3/2/2026 21:48:01,15,Grade 10,Less than 2 hours,Less than 1 hour,Less than 1 hour,Often,20–50,6–7 hours,1,1,2,1,4,3,4,4,70–80%,More than 4 hours,75–90%,2,Not sure
+3/2/2026 21:57:18,15,Grade 10,Less than 2 hours,Less than 1 hour,None,Sometimes,Less than 20,5–6 hours,4,5,5,5,4,3,2,1,Above 90%,More than 4 hours,Above 90%,3,No
+3/2/2026 22:05:10,16,Grade 11,4–6 hours,3–5 hours,None,Always,20–50,5–6 hours,3,4,4,4,4,4,3,2,80–90%,1–2 hours,75–90%,2,No
+3/2/2026 22:12:09,15,Grade 10,2–4 hours,1–3 hours,Less than 1 hour,Often,20–50,7–8 hours,2,1,2,4,5,4,4,2,80–90%,2–4 hours,Above 90%,3,Not sure
+3/2/2026 22:24:22,16,First year college,4–6 hours,Less than 1 hour,Less than 1 hour,Always,20–50,6–7 hours,3,3,4,5,5,5,4,4,80–90%,Less than 1 hour,75–90%,4,No
+3/2/2026 22:34:49,16,Grade 11,2–4 hours,Less than 1 hour,None,Sometimes,Less than 20,7–8 hours,3,2,2,2,2,2,3,2,70–80%,2–4 hours,Above 90%,2,Not sure
+3/2/2026 22:34:58,,,,,,,,,,,,,,,,,,,,,
+3/3/2026 6:56:33,17,Grade 12,Less than 2 hours,1–3 hours,None,Sometimes,20–50,6–7 hours,3,2,2,2,4,2,3,1,70–80%,2–4 hours,75–90%,2,Yes
+3/3/2026 7:09:11,15,Grade 10,4–6 hours,1–3 hours,None,Often,20–50,6–7 hours,4,3,4,4,4,4,5,1,70–80%,Less than 1 hour,60–75%,4,No
+3/3/2026 8:26:57,15,Grade 10,2–4 hours,1–3 hours,None,Sometimes,Less than 20,6–7 hours,1,3,1,1,3,3,2,5,80–90%,2–4 hours,Above 90%,5,Yes
+3/3/2026 19:07:18,17,Grade 12,2–4 hours,Less than 1 hour,None,Sometimes,Less than 20,7–8 hours,3,3,1,4,4,2,2,1,Above 90%,More than 4 hours,60–75%,3,Not sure
+3/3/2026 23:19:56,15,Grade 10,4–6 hours,3–5 hours,None,Always,50–100,More than 8 hours,5,2,3,4,5,5,5,3,60–70%,1–2 hours,75–90%,2,Yes
+3/16/2026 15:42:11,15,Grade 12,6–8 hours,3–5 hours,Less than 1 hour,Always,50–100,More than 8 hours,5,5,5,2,5,2,5,5,80–90%,2–4 hours,75–90%,4,No
